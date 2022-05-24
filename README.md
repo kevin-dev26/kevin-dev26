@@ -11,7 +11,14 @@
  
  <br>
  
-  ### Empreendedor com fome de aprender, caindo de cabeça na area de Tecnologia. 
+  
+  Um pouco do meu pessoal: 
+  
+  ### Apaixonado por RPG De Mesa - Mestre e jogador.
+  
+  <iframe src="https://giphy.com/embed/3oriNPdeu2W1aelciY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-dragons-dnd-3oriNPdeu2W1aelciY">via GIPHY</a></p>
+ 
+  <img
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
