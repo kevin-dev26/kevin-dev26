@@ -16,7 +16,7 @@
   
   ### Apaixonado por RPG De Mesa - Mestre e jogador.
   <div>
-  <img src="https://media4.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif?cid=790b7611e1dee6b87f4570fdf07a78e1cfb120c1ed61b9cf&rid=giphy.gif&ct=g" </img>
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oriNPdeu2W1aelciY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> <p><a href="https://giphy.com/gifs/animation-dragons-dnd-3oriNPdeu2W1aelciY"></a></p>
   </div>
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
