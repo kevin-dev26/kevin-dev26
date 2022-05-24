@@ -11,9 +11,10 @@
  
  <br>
  
-  
-  Um pouco do meu pessoal: 
-  
+  ### Sou um pequeno empreededor que sempre amou tecnologia, só que desta vez se decidiu ir a fundo nesse mundo. Aprendendo muito todos os dias e na busca da tão sonhada 1ª vaga na area, em desenvolvimento front end. 
+
+Atualmente estudando e se aprofundando nas tecnologias HTML5, CSS4 e Javascript.
+ 
   ### Apaixonado por RPG De Mesa - Mestre e jogador.
   <div>
     <img autoplay src="https://c.tenor.com/CARgJFTXTO4AAAAM/nat20-d20.gif" </img>
