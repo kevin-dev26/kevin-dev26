@@ -16,7 +16,7 @@
   
   ### Apaixonado por RPG De Mesa - Mestre e jogador.
   <div>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oriNPdeu2W1aelciY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> <p><a href="https://giphy.com/gifs/animation-dragons-dnd-3oriNPdeu2W1aelciY"></a></p>
+    <img src="https://c.tenor.com/CARgJFTXTO4AAAAM/nat20-d20.gif" </img>
   </div>
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
