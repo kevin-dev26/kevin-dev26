@@ -16,7 +16,7 @@
   
   ### Apaixonado por RPG De Mesa - Mestre e jogador.
   <div>
-    <img src="https://c.tenor.com/CARgJFTXTO4AAAAM/nat20-d20.gif" </img>
+    <video autoplay src="https://c.tenor.com/CARgJFTXTO4AAAAM/nat20-d20.gif" </video>
   </div>
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
